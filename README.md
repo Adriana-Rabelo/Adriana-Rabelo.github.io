@@ -10,3 +10,10 @@ Aqui será meu primeiro site
 
 ## Acessando o site
 Para ter acesso a esse site entre em <Adriana-Rabelo.github.io>
+
+## Autores
+
+Algumas redes sociais do autor:
+
+-[Linkedin](https://linkedin.com/in/adrianarabelo)
+
